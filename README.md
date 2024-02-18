@@ -1,1 +1,1 @@
-Hey I'm Héctor Gaixes, Software Engineer from Spain 🇪🇸.
+Hey I'm Héctor Gaixes, Software Engineer from Spain.
